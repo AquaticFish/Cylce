@@ -1,2 +1,2 @@
-# Cylce
+# cylce
 cycle of life
