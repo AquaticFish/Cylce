@@ -1,2 +1,2 @@
-# bike
+# cycle
 cycle of life
